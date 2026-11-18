@@ -2,7 +2,7 @@
 
 フォルダを選んでボタンを押すだけで ZIP 圧縮できる、Python + Flet のデスクトップ GUI ツールです。
 
-![screenshot](docs/Screenshot.png)
+![Screenshot](docs/Screenshot.png)
 <!-- スクリーンショット: アプリを起動して画面を撮影し、docs/screenshot.png に置いてください -->
 
 ## できること
